@@ -1,0 +1,8 @@
+install libraries
+
+!pip3 install matplotlib  --upgrade --quiet
+!pip3 install seaborn  --upgrade --quiet
+!pip3 install scikit-learn --upgrade --quiet
+!pip3 install pandas --upgrade --quiet
+!pip3 install numpy  --upgrade --quiet
+!pip install ucimlrepo --upgrade --quiet
