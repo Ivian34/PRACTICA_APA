@@ -4,9 +4,10 @@ Instrucciones para ejecutar el proyecto:
 
 2. Crea y activa un entorno virtual con:
 python -m venv venv
+
 source venv/bin/activate 
   
 
-3. Instala las dependencias desde el archivo `requirements.txt` con el comando: pip install -r requirements.txt. Alternativamente descomenta las instalaciones de las librerias al principio del codigo
+4. Instala las dependencias desde el archivo `requirements.txt` con el comando: pip install -r requirements.txt. Alternativamente descomenta las instalaciones de las librerias al principio del codigo
   
-4. Ejecuta el notebook dandole a Run All
+5. Ejecuta el notebook dandole a Run All
